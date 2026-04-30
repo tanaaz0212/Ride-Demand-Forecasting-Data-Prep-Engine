@@ -168,10 +168,10 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 ##  Deliverables
 
-* ✔ Python Notebook (`main.ipynb`)
-* ✔ Final Dataset (`.csv`)
-* ✔ README File
-* ✔ Summary Report
+ Python Notebook (`main.ipynb`)
+*  Final Dataset (`.csv`)
+*  README File
+*  Summary Report
 
 ---
 
